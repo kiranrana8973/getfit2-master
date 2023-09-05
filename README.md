@@ -2,7 +2,8 @@
 
 1. flutter pub outdated
 
-// Upgrade to latest version 2. flutter pub upgrade --major-versions
+// Upgrade to latest version 
+2. flutter pub upgrade --major-versions
 
 // Change minSDK to 21
 minSdkVersion 21
